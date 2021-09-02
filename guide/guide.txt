@@ -1,0 +1,15 @@
+1: Open report/report.exe or report.bat
+
+2: Right click blank place or left click menu
+
+3: Click to open the dat/csv file
+
+4: Select dat/csv file
+
+5: After successfully importing the file , you need enter the password: 0000
+
+6: When the password correct, right click blank place or left click menu will have added search functions
+
+
+#apps\\fit240\\TestRecord.dat'
+#mkdir E:apps\fit240
