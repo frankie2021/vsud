@@ -11,4 +11,7 @@ e.g. D:apps\fit240
 mkdir D:apps\fit240  
   
 download link:  
-https://drive.google.com/drive/folders/1MZl4bX01kekR9O4I_9dcxDwTwbAYrVM_?usp=sharing
+https://drive.google.com/drive/folders/1MZl4bX01kekR9O4I_9dcxDwTwbAYrVM_?usp=sharing  
+
+demo video:  
+https://drive.google.com/file/d/1__egrWPC3kf2I788QRuARdNL5Sqr-JAc/view?usp=sharing
